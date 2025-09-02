@@ -13,3 +13,7 @@ for i in range(1,101):
 
 print('FIM!')
 # %%
+
+for i in range(4,101):
+    if i % 4 == 0:
+        print(i)
